@@ -1,6 +1,8 @@
 # code-academy-ml
 Machine Learning classes from code academy. (https://www.codecademy.com/programs/b8e789be014182f17868650a1556c946)
 
+__Grade:__ **20/20** (see https://github.com/julien-amar/code-academy-ml/issues/1)
+
 ## Regression
 
 __LinearRegression:__ a model for understanding the relationship between an input and output numerical variables using a linear regression: `a * x + b`
